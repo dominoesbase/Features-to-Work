@@ -37,7 +37,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Generate SQL - PAXinvoice2</title>
+    <title>Generate SQL - Invoice</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
