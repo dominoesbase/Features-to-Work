@@ -12,6 +12,7 @@ Project to generate queries associated with job output.
 - Browser-based
 - Back-end language: PHP
 - Download document with queries
+- Logs output
 
 | Version | Last Update | State
 | --- | --- | --- |
