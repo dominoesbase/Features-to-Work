@@ -1,3 +1,9 @@
+/*******************************************************************************
+ *  Contributors:
+ *     Jorge V. Rodrigues - implementation
+ *
+ *  Last revision: 2019/03
+ ******************************************************************************/
 function fixFooter() {
   var docHeight = $(window).height();
   var footerHeight = $('#footer').height();

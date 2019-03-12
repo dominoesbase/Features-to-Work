@@ -16,4 +16,5 @@ Project to generate queries associated with job output.
 
 | Version | Last Update | State
 | --- | --- | --- |
-| 1.0.20190113.1500 |  2018/01/13 | IN USE
+| 1.0.20190113.1500 | 2019/01/12 | DEPRECATED
+| 1.0.20190312.1000 | 2019/03/12 | IN USE
