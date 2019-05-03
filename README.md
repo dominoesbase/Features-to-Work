@@ -6,7 +6,7 @@ These **features can be applied in other projects**.
 # Invoice
 
 Project to generate queries associated with job output.
-> File is generated with queries and is ready for **download**.
+> File is generated with queries and is ready to **download**.
 
 **Customer Requirements:**
 - Browser-based
