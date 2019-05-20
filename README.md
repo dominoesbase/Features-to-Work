@@ -1,12 +1,12 @@
 # Features to Work
 
-Features for **work at customer's** request.
+Features requested by **companies to make everyday work easier**.
 These **features can be applied in other projects**.
 
 # Invoice
 
-Project to generate queries associated with job output.
-> File is generated with queries and is ready to **download**.
+Project to generate SQL queries associated with job output.
+> The generated file contains queries and it´s **immediately available for download**.
 
 **Customer Requirements:**
 - Browser-based
